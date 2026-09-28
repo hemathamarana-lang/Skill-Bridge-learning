@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge · Career Gap & Learning Roadmap",
+  "description": "Empowering students to analyze target career skill requirements, identify gaps against their current skillset, discover top learning platforms, and follow an adaptive personalized roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
